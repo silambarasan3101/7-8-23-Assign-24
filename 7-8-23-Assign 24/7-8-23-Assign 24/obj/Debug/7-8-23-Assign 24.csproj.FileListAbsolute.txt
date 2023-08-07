@@ -1,0 +1,6 @@
+E:\hd\7-8-23-Assign 24\7-8-23-Assign 24\bin\Debug\7-8-23-Assign 24.dll
+E:\hd\7-8-23-Assign 24\7-8-23-Assign 24\bin\Debug\7-8-23-Assign 24.pdb
+E:\hd\7-8-23-Assign 24\7-8-23-Assign 24\obj\Debug\7-8-23-Assign 24.csproj.AssemblyReference.cache
+E:\hd\7-8-23-Assign 24\7-8-23-Assign 24\obj\Debug\7-8-23-Assign 24.csproj.CoreCompileInputs.cache
+E:\hd\7-8-23-Assign 24\7-8-23-Assign 24\obj\Debug\7-8-23-Assign 24.dll
+E:\hd\7-8-23-Assign 24\7-8-23-Assign 24\obj\Debug\7-8-23-Assign 24.pdb
